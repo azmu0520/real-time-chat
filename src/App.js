@@ -12,6 +12,7 @@ export const App = () => {
     <div className="center">
       <Container>
         <Header />
+        <Header />
         <Main />
         <AboutUs />
         <AboutService />
